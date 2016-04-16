@@ -1,0 +1,19 @@
+{
+  "name": "breath_cycle",
+  "version": "1.0.0",
+  "description": "breath_cycle",
+  "authors": [
+    "Fedor Orlenko"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libraries"
+  ],
+  "dependencies": {
+    "framework7": "latest"
+  }
+}

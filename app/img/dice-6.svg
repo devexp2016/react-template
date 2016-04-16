@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="132px" height="145px" viewBox="0 0 132 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Group Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="46.8784959%" fx="50%" fy="46.8784959%" r="33.4675265%" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#DEDEDE" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#ECECEC" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-3" d="M5.79593139,32.9138606 C0.380394658,30.1496914 0.426518453,25.755141 5.88254206,23.1063243 L48.2874838,2.51936824 C54.2475072,-0.37413269 63.7919171,-0.154216995 69.6226619,3.01989533 L112.208902,26.202784 C116.57221,28.5780602 116.485708,32.2614964 112.005016,34.4351497 L76.6292232,51.5964959 C66.9365375,56.2985682 51.3115218,56.1456842 41.7145515,51.24725 L5.79593139,32.9138606 Z"></path>
+        <linearGradient x1="47.0540365%" y1="100%" x2="47.0540375%" y2="13.3046875%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0.700662364" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="13.2751602%" y1="23.4495808%" x2="83.2937048%" y2="44.6332349%" id="linearGradient-6">
+            <stop stop-color="#DFDFDF" offset="0%"></stop>
+            <stop stop-color="#D4D4D4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="18.4611214%" y1="65.8885136%" x2="100%" y2="27.6593874%" id="linearGradient-7">
+            <stop stop-color="#FDFDFD" offset="0%"></stop>
+            <stop stop-color="#E8E8E8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="-4.10203378%" x2="96.084992%" y2="96.5561957%" id="linearGradient-8">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.674507473" offset="48.7882653%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-9" d="M0.005,0.0316666667 L0.005,19.91675 L16.776,19.91675 L16.776,0.0316666667 L0.005,0.0316666667 L0.005,0.0316666667 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy-2" transform="translate(0.000000, -2.000000)">
+            <path d="M0,45.3098081 C0,39.5152713 4.17169501,32.6530125 9.31153658,29.9857441 L57.7827017,4.832127 C62.9253214,2.16341695 71.2180888,2.26436434 76.2976716,5.05351151 L121.300961,29.7643596 C126.383877,32.5553369 130.551916,39.5236539 130.61047,45.3218219 L131.211307,104.818803 C131.269891,110.619975 127.140185,117.459567 121.965785,120.106491 L74.2939802,144.492631 C69.1292356,147.134615 60.7562935,147.153957 55.5685597,144.523699 L9.37382316,121.102278 C4.19680358,118.477451 0,111.643532 0,105.857672 L0,45.3098081 Z" id="Path-89" fill="url(#radialGradient-1)"></path>
+            <g id="Oval-6" transform="translate(8.000000, 4.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+                <path d="M61,57.5 C99.1076477,57.5 130,46.754834 130,33.5 C130,20.245166 99.1076477,9.5 61,9.5 C22.8923523,9.5 -8,20.245166 -8,33.5 C-8,46.754834 22.8923523,57.5 61,57.5 Z" fill="url(#linearGradient-5)" mask="url(#mask-4)"></path>
+            </g>
+            <path d="M67.5,86.851807 C67.5,76.0801488 75.37644,63.5688936 85.0811194,58.912607 L121.48991,41.4437388 C126.717648,38.9354802 130.955566,41.597251 130.955566,47.4109302 L130.955566,103.738341 C130.955566,110.362472 126.160074,118.164756 120.245027,121.16498 L77.3105653,142.94215 C71.8923397,145.690377 67.5,142.999509 67.5,136.926322 L67.5,86.851807 Z" id="Rectangle-11-Copy" fill="url(#linearGradient-6)"></path>
+            <path d="M1,47.1520602 C1,40.5235433 5.81289231,37.5530356 11.7406341,40.5126213 L46.555549,57.894911 C56.1898533,62.7050984 64,75.3283645 64,86.1128845 L64,136.491089 C64,143.11508 59.238936,146.000347 53.366355,142.935769 L11.633645,121.157754 C5.76084504,118.093061 1,110.235942 1,103.606646 L1,47.1520602 Z" id="Rectangle-12-Copy" fill="url(#linearGradient-7)"></path>
+            <path d="M12,42 L46.9803067,58.6638627 C55.9507087,62.9371684 63.2226562,74.4657653 63.2226562,84.3978817 L63.2226562,131.239746" id="Path-90" stroke="url(#linearGradient-8)" stroke-width="1.5"></path>
+            <ellipse id="Oval-7" fill="#4D4D4D" transform="translate(87.594236, 110.924473) rotate(6.000000) translate(-87.594236, -110.924473) " cx="87.5942363" cy="110.924473" rx="8.29146671" ry="12.8978371"></ellipse>
+            <ellipse id="Oval-7-Copy-2" fill="#4C4C4C" transform="translate(29.094236, 90.193876) scale(-1, 1) rotate(6.000000) translate(-29.094236, -90.193876) " cx="29.0942363" cy="90.1938757" rx="8.29146671" ry="12.8978371"></ellipse>
+            <ellipse id="Oval-7-Copy" fill="#4D4D4D" transform="translate(114.803845, 67.352097) rotate(6.000000) translate(-114.803845, -67.352097) " cx="114.803845" cy="67.3520975" rx="7.17629354" ry="11.1631233"></ellipse>
+            <ellipse id="Oval-42" fill="#4D4D4D" cx="67.5" cy="45.75" rx="12" ry="6.75"></ellipse>
+            <ellipse id="Oval-42-Copy-3" fill="#4D4D4D" cx="66.75" cy="29.25" rx="11.25" ry="6.75"></ellipse>
+            <ellipse id="Oval-42-Copy-4" fill="#4D4D4D" cx="66" cy="13.5" rx="10.5" ry="6"></ellipse>
+            <g id="music" transform="translate(41.000000, 142.000000)">
+                <mask id="mask-10" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <g id="Clip-2"></g>
+            </g>
+        </g>
+    </g>
+</svg>

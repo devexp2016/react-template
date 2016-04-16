@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="8px" height="13px" viewBox="0 0 8 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Disclosure Indicator</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="настройки" transform="translate(-351.000000, -348.000000)" fill="#C7C7CC">
+            <g id="Cell/Cell-with-Value" transform="translate(0.000000, 333.000000)">
+                <path d="M351,16.5 L352.5,15 L359,21.5 L352.5,28 L351,26.5 L356,21.5 L351,16.5 Z" id="Disclosure-Indicator"></path>
+            </g>
+        </g>
+    </g>
+</svg>

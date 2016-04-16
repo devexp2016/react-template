@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Копия shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="настройки" transform="translate(-20.000000, -345.000000)" fill="#565656">
+            <g id="Копия-shape" transform="translate(20.000000, 345.000000)">
+                <path d="M0,8.28857143 L8.18753846,8.28857143 L8.18753846,0.285714286 L0,0.285714286 L0,8.28857143 Z" id="Fill-1"></path>
+                <path d="M10.5216154,8.28857143 L18.7091538,8.28857143 L18.7091538,0.285714286 L10.5216154,0.285714286 L10.5216154,8.28857143 Z" id="Fill-2"></path>
+                <path d="M0,18.5728571 L8.18753846,18.5728571 L8.18753846,10.57 L0,10.57 L0,18.5728571 Z" id="Fill-3"></path>
+                <path d="M10.5216154,18.5728571 L18.7091538,18.5728571 L18.7091538,10.57 L10.5216154,10.57 L10.5216154,18.5728571 Z" id="Fill-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>
